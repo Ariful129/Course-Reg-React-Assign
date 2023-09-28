@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "cover_title": "Web Development Bootcamp",
+      "description": "A comprehensive web development bootcamp covering HTML, CSS, JavaScript, and many many many more.",
+      "price": 150,
+      "time": 3,
+      "img": "https://i.ibb.co/mzwks4D/female-hands-are-writing-notebook-flat-lay-conceptual-minimalism.jpg"
+    },
+    {
+      "id": 2,
+      "cover_title": "Data Science Foundations",
+      "description": "Introduction to data science concepts, including data analysis, visualization, and machine learning.",
+      "price": 200,
+      "time": 2,
+      "img": "https://i.ibb.co/mzwks4D/female-hands-are-writing-notebook-flat-lay-conceptual-minimalism.jpg"
+    },
+    {
+        "id": 3,
+        "cover_title": "Web Development Bootcamp",
+        "description": "A comprehensive web development bootcamp covering HTML, CSS, JavaScript, and many many many more.",
+        "price": 150,
+        "time": 3,
+        "img": "https://i.ibb.co/mzwks4D/female-hands-are-writing-notebook-flat-lay-conceptual-minimalism.jpg"
+      },
+      {
+        "id": 4,
+        "cover_title": "Data Science Foundations",
+        "description": "Introduction to data science concepts, including data analysis, visualization, and machine learning.",
+        "price": 200,
+        "time": 2,
+        "img": "https://i.ibb.co/mzwks4D/female-hands-are-writing-notebook-flat-lay-conceptual-minimalism.jpg"
+      },
+      {
+        "id": 5,
+        "cover_title": "Web Development Bootcamp",
+        "description": "A comprehensive web development bootcamp covering HTML, CSS, JavaScript, and many many many more.",
+        "price": 150,
+        "time": 3,
+        "img": "https://i.ibb.co/mzwks4D/female-hands-are-writing-notebook-flat-lay-conceptual-minimalism.jpg"
+      },
+      {
+        "id": 6,
+        "cover_title": "Data Science Foundations",
+        "description": "Introduction to data science concepts, including data analysis, visualization, and machine learning.",
+        "price": 200,
+        "time": 2,
+        "img": "https://i.ibb.co/mzwks4D/female-hands-are-writing-notebook-flat-lay-conceptual-minimalism.jpg"
+      }
+  ]
+  
